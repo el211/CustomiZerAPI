@@ -1,5 +1,9 @@
 # CustomiZer API
 
+[![JitPack](https://jitpack.io/v/el211/CustomiZerAPI.svg)](https://jitpack.io/#el211/CustomiZerAPI)
+
+**JitPack:** https://jitpack.io/#el211/CustomiZerAPI
+
 The official developer API for the **CustomiZer** Minecraft plugin.  
 Add it as a `provided` dependency to hook into CustomiZer from your own plugin.
 
